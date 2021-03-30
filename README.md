@@ -26,4 +26,4 @@ _Como añadir los sonidos a una imagen, previamente cargados en el script que lo
 _![Sonidos](https://i.imgur.com/FM4oR01.png)_
 
 
-[README.md](README.md) de  Ivan Rodríguez Noé Díaz para el repositorio [ImagenesInteractivasAR](https://github.com/UnityDamCastelao/ImagenesInteractivasAR)
+[README.md](README.md) de  Ivan Rodríguez y Noé Díaz para el repositorio [ImagenesInteractivasAR](https://github.com/UnityDamCastelao/ImagenesInteractivasAR)
